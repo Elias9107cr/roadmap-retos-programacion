@@ -1,0 +1,21 @@
+//https://developer.mozilla.org/es/docs/Web/JavaScript // 
+
+// Este es un comentario de una linea//
+
+/* 
+Este es un comentario
+de varias lineas
+*/
+
+let nombre = "Elias"; //variable
+const edad = 33 ; //costante
+
+let cadenaDeTexto = "Hola, Mundo!" ; //Cadena de texto
+let numeroEntero = "42" ; // Numero entero
+let numeroDecimal = "3.14" ; // Numero decimal
+let esVerdadero = true ; // booleano verdadero
+let esFalso = false ; // booleano falso
+
+// Imprimir texto en la consola
+
+console.log('!Hola, Javascript!');
